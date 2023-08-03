@@ -1,0 +1,23 @@
+.bu{
+    background-color: rgb(216, 112, 169);
+    border-radius: 5px;
+    margin-left: 40px;
+    font-size: 20px;
+    
+}
+body{
+    background-color: aliceblue;
+    margin-left: 40%;
+    border: 20px solid skyblue;
+    margin-right: 30%;
+    margin-top: 5%;
+    font-size: 160%;
+    border-radius:20px;
+    
+}
+.hel{
+    margin-left: 50px;
+}
+.law{
+    margin-left: 20px;
+}
